@@ -1,0 +1,27 @@
+body{
+	background-color: teal;
+	color: lightskyblue;
+}
+
+
+h2{
+	color: white;
+	font-family: inherit;
+}
+
+h1{
+	color: pink;
+	font-weight: bold;
+}
+
+img {
+
+	border:4px solid;
+	border-color: plum;
+}
+
+img:hover {
+	
+	border-color: white;
+	cursor: pointer;
+}
